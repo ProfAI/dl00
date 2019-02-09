@@ -1,4 +1,4 @@
-# Deep Learning con Python: il Corso Pratico
+![Deep Learning: il corso pratico](https://raw.githubusercontent.com/ProfAI/dl00/master/res/banner.jpg)
 
 #### L'Intelligenza Artificiale sta facendo progressi esponenziali, avanzando come nessuna tecnologia aveva mai fatto prima nella storia dell'uomo, e il merito è di un solo e unico campo: il Deep Learning. ####
 
