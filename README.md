@@ -53,10 +53,9 @@ Il processo di addestramento di una Rete Neurale Artificiale può essere molto d
 
 Al termine del corso ti verranno forniti alcuni consigli su come proseguire la tua avventura nel campo del Deep Learning, sia sotto un punto di vista pratico che teorico.
 
-Artificial Intelligence, Machine Learning e Deep Learning sono in continua evoluzione, quindi dopo l'ultima sezione non considerare questo corso concluso, perché verrà aggiornato costantemente con nuovi contenuti. Ad ogni nuovo aggiornamento riceverai una notifica tramite email.
+***Artificial Intelligence, Machine Learning e Deep Learning sono in continua evoluzione, quindi dopo l'ultima sezione non considerare questo corso concluso, perché verrà aggiornato costantemente con nuovi contenuti. Ad ogni nuovo aggiornamento riceverai una notifica tramite email.***
 
 I contenuti in programma per il prossimo aggiornamento sono: 
 
-Reti neurali convoluzionali per la Computer Vision.
-
-Reti neurali ricorrenti per il Natural Language Processing.
+ - Reti neurali convoluzionali per la Computer Vision.
+ - Reti neurali ricorrenti per il Natural Language Processing.
