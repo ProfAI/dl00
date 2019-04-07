@@ -51,11 +51,18 @@ Nella sezione seguente introdurremo il problema dell'overfitting nelle reti neur
 
 Il processo di addestramento di una Rete Neurale Artificiale può essere molto dispendioso, in termini di tempo e risorse di calcolo, per questo abbiamo creato una sezione apposita per mostrarti come velocizzare il processo sfruttando la parallelizzazione delle GPUs e servizi in Cloud come Google Colaboratory e Amazon AWS.
 
+In seguito vedremo un'altra tipologia di reti neurali utilissima  se il nostri dati sono una sequenza, come testi, audio, video e serie storiche, cioè le Reti Neurali Ricorrenti nelle varianti Vanilla Recurrent Neural Network, Long short-term memory (LSTM) e Gated Recurrent Unit (GRU). Inoltre vedremo come creare rappresentazioni vettoriali di testi utilizzando il Word Embedding.
+
+Nell'ultima sezione pratica combineremo strati convoluzionali e ricorrenti per creare una Convolutional Long Short-Term Memory Network.
+
 Al termine del corso ti verranno forniti alcuni consigli su come proseguire la tua avventura nel campo del Deep Learning, sia sotto un punto di vista pratico che teorico.
 
-***Artificial Intelligence, Machine Learning e Deep Learning sono in continua evoluzione, quindi dopo l'ultima sezione non considerare questo corso concluso, perché verrà aggiornato costantemente con nuovi contenuti. Ad ogni nuovo aggiornamento riceverai una notifica tramite email.***
+**Artificial Intelligence, Machine Learning e Deep Learning sono in continua evoluzione, quindi dopo l'ultima sezione non considerare questo corso concluso, perché verrà aggiornato costantemente con nuovi contenuti. Ad ogni nuovo aggiornamento riceverai una notifica tramite email.**
 
 I contenuti in programma per il prossimo aggiornamento sono: 
 
- - Reti neurali convoluzionali per la Computer Vision.
- - Reti neurali ricorrenti per il Natural Language Processing.
+ - Eseguire predizioni su serie storiche utilizzando le reti neurali ricorrenti.
+ - Tecniche di dataset augmentation e generatori di immagini
+
+## [IL CORSO E' DISPONIBILE SU UDEMY A SOLI 9.99 CLICCANDO SU QUESTO LINK !](https://www.udemy.com/deep-learning-pratico/?couponCode=PROFAI_GITHUB)
+
