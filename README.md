@@ -1,5 +1,7 @@
 ![Deep Learning: il corso pratico](https://raw.githubusercontent.com/ProfAI/dl00/master/res/banner.jpg)
 
+## [Deep Learning e Reti Neurali con Python: il Corso Pratico](https://www.udemy.com/deep-learning-pratico/?couponCode=PROFAI_GITHUB)
+
 #### L'Intelligenza Artificiale sta facendo progressi esponenziali, avanzando come nessuna tecnologia aveva mai fatto prima nella storia dell'uomo, e il merito è di un solo e unico campo: il Deep Learning. ####
 
 Il Deep Learning è l'insieme di metodi utilizzati per addestrare le Reti Neurali Artificiali, un particolare modello del Machine Learning che hanno rivoluzionato l'intero settore.
@@ -64,5 +66,5 @@ I contenuti in programma per il prossimo aggiornamento sono:
  - Eseguire predizioni su serie storiche utilizzando le reti neurali ricorrenti.
  - Tecniche di dataset augmentation e generatori di immagini
 
-## [IL CORSO E' DISPONIBILE SU UDEMY A SOLI 9.99 CLICCANDO SU QUESTO LINK !](https://www.udemy.com/deep-learning-pratico/?couponCode=PROFAI_GITHUB)
+### [IL CORSO COMPLETO E' DISPONIBILE SU UDEMY A SOLI 9.99 € CLICCANDO SU QUESTO LINK !](https://www.udemy.com/deep-learning-pratico/?couponCode=PROFAI_GITHUB)
 
