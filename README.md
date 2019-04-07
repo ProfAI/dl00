@@ -66,5 +66,5 @@ I contenuti in programma per il prossimo aggiornamento sono:
  - Eseguire predizioni su serie storiche utilizzando le reti neurali ricorrenti.
  - Tecniche di dataset augmentation e generatori di immagini
 
-### [IL CORSO COMPLETO E' DISPONIBILE SU UDEMY A SOLI 9.99 € CLICCANDO SU QUESTO LINK !](https://www.udemy.com/deep-learning-pratico/?couponCode=PROFAI_GITHUB)
+### [IL CORSO COMPLETO E' DISPONIBILE SU UDEMY A SOLI 9.99 € CLICCANDO SU QUESTO LINK](https://www.udemy.com/deep-learning-pratico/?couponCode=PROFAI_GITHUB)
 
