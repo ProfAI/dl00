@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-def showBounds(X,Y,model, labels=["classe negativa", "classe positiva"]):
+def plot_boundary(X,Y,model, labels=["classe negativa", "classe positiva"]):
     
     h = .02 
 
